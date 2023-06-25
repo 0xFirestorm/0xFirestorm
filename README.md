@@ -5,6 +5,8 @@
 
 - 💬 Ask me about **Linux, Cybersecurity Tools and Python**
 
+- 👨‍💻 All of my projects are available here on github
+
 - 📫 Ping me on Discord **0xfirestorm**
 
 <h3 align="left">Connect with me:</h3>
