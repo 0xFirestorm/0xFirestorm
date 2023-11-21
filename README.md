@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Network Programming with Python**
 
-- 💬 Ask me about **Linux, Cybersecurity Tools and Python**
+- 💬 Ask me about **Malware Analysis, Digital Forensics and Penetration Testing**
 
 - 👨‍💻 All of my projects are available here on github
 
