@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-👋Hey there, I am Shahmir, a cybersecurity enthusiast from pakistan<br><br>🌱 I’m currently learning Network Programming with Python<br><br>💬 Ask me about Malware Analysis, Digital Forensics and Penetration Testing<br><br>👨‍💻 All of my projects are available here on github<br><br>📫 Ping me on Discord 0xfirestorm
+👋Hey there, I am Shahmir, a cybersecurity enthusiast from Pakistan<br><br>🌱 I’m currently learning Network Programming with Python<br><br>💬 Ask me about Malware Analysis, Digital Forensics and Penetration Testing<br><br>👨‍💻 All of my projects are available here on github<br><br>📫 Ping me on Discord 0xfirestorm
 
 
 ## 🌐 Socials:
